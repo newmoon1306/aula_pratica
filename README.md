@@ -1,1 +1,1 @@
-# aula_pratica
+# aula_pratica - trilha FullStack
